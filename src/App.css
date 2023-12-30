@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+span{
+    z-index: 9000;
+}
+.date{
+    z-index: 9000;
+    background: rgb(255, 208, 0);
+    padding: 6px;
+    color: black;
+    border-radius: 10px;
+}
